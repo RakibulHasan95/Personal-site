@@ -1,0 +1,25 @@
+@media (max-width: 768px){
+
+.container {
+   width: 100%;
+   margin: 0px 0px;
+ }
+.Dp img {
+   width: 100%;
+} 
+.experiance {
+   width: 100%;
+}
+.achivement h1 {
+   width: 100%;
+}
+.capture1 {
+   text-align: center;
+}
+.capture1 img {
+   width: 100%;
+}
+.SeeMore button {
+   margin: 10px 293px;
+}
+}

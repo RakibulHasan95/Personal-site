@@ -158,12 +158,17 @@ h1,h2,h3,h4,h5,h6{
     font-size: 18px;   
     color: white;
 }
-.login button {
-    width: 150px;
-    padding: 10px;
-    background: black; 
-    border-radius: 10px; 
-    border: none;   
+.login{
+    text-align: center;
+
+}
+.login button { 
+    width: 134px;
+    padding: 8px;
+    background: black;
+    border-radius: 33px;
+    border: none;
+    font-size: 22px;
 }
 .login button a{
     text-decoration: none;

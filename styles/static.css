@@ -5,9 +5,8 @@ h1,h2,h3,h4,h5,h6{
     
 }
 .container{
-    width: 1400px;
-    margin: 10px 250px;
-    
+    width: 100%;
+    margin: 10px 0px;
 }
 .topmenu h1,h2 {
     background: rgba(255, 255, 255, 0.691);
@@ -34,7 +33,7 @@ h1,h2,h3,h4,h5,h6{
     line-height: 0px;
 }
 .Instname{
-    width: 605px;
+    width: 940px;
     word-spacing: 0px;
     line-height: 22px;
     font-size: 25px;
@@ -77,6 +76,13 @@ h1,h2,h3,h4,h5,h6{
     font-weight: 400;
     text-align: center;
 }
+.capture1 {
+    text-align: center;
+}
+.SeeMore {
+    text-align: center;
+    margin: 6px;
+}
 .SeeMore a {
     text-decoration: none;
     color:white;
@@ -88,7 +94,6 @@ h1,h2,h3,h4,h5,h6{
     background: black;
     border-radius: 25px;
     border: solid black 1px;
-    margin: 10px 634px;
 }
 .SeeMore  :hover{
     background: white;
@@ -161,13 +166,12 @@ h1,h2,h3,h4,h5,h6{
     padding-top: 25px;
 }
 .socialSite button {
-    width: 108px;
-    padding: 16px;
+    width: 100%;
     border: none;
     background-color: black;
     color: white;
-    font-size: 24px;
-    border-radius: 10px;
+    font-size: 45px;
+    border-radius: 70px;
     float: left;
     margin: 8px 0px;
 }
@@ -179,14 +183,13 @@ h1,h2,h3,h4,h5,h6{
     cursor: pointer;
 }
 .socialSite2 button{
-    margin: 8px;
-    width: 285px;
-    padding: 16px;
+    width: 100%;
+    padding: 0px;
     border: none;
     background-color: black;
     color: white;
-    font-size: 24px;
-    border-radius: 10px;
+    font-size: 45px;
+    border-radius: 70px;
     float: left;
 }
 .socialSite2  :hover{
@@ -197,11 +200,11 @@ h1,h2,h3,h4,h5,h6{
     cursor: pointer;
 }
 .socialSite3 button{
-    width: 490px;
-    padding: 16px;
-    border-radius: 10px;
+    width: 100%;
+    padding: 0px;
+    border-radius: 70px;
     float: left;
-    font-size: 24px;
+    font-size: 45px;
     background-color: black;
     color: white;
     border: none;

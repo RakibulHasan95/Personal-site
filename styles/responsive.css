@@ -16,7 +16,7 @@
       border-radius: 25px;
    }
    .Instname{
-       width: 920px;
+       width: 722px;
        word-spacing: 0px;
        line-height: 22px;
        float: left;
@@ -26,7 +26,9 @@
        font-size: 49px;
        text-align: center;
    }
-   
+   .Instname h2 {
+      font-size: 43px;
+   }
    .experiance h1 {
       font-size: 45px;
    }
@@ -61,36 +63,7 @@
       padding-bottom: 30px;
    }
 
-   .socialSite button {
-      border: none;
-      background-color: black;
-      color: white;
-      font-size: 24px;
-      border-radius: 10px;
-      float: left;
-      margin: 8px 0px;
-      width: 100%;
-   }
-   .socialSite2 button {
-      border: none;
-      background-color: black;
-      color: white;
-      font-size: 24px;
-      border-radius: 10px;
-      float: left;
-      margin: 8px 0px;
-      width: 100%;
-   }
-   .socialSite3 button {
-      border: none;
-      background-color: black;
-      color: white;
-      font-size: 24px;
-      border-radius: 10px;
-      float: left;
-      margin: 8px 0px;
-      width: 100%;
-   }
+   
    .open input{  
        width: 100%;
        padding: 20px;
@@ -148,6 +121,41 @@
       color: white;
       font-size: 50px;
      }
-
+     .socialSite button {
+      border: none;
+      background-color: black;
+      color: white;
+      font-size: 24px;
+      border-radius: 10px;
+      float: left;
+      margin: 8px 0px;
+      width: 100%;
+   }
+   .socialSite2 button {
+      border: none;
+      background-color: black;
+      color: white;
+      font-size: 24px;
+      border-radius: 10px;
+      float: left;
+      margin: 8px 0px;
+      width: 100%;
+   }
+   .socialSite3 button {
+      border: none;
+      background-color: black;
+      color: white;
+      font-size: 24px;
+      border-radius: 10px;
+      float: left;
+      margin: 8px 0px;
+      width: 100%;
+   }
+   .profile {
+      text-align: center;
+      margin-top: 160px;
+      background: #48e851;
+      border-radius: 50px;
+   }
 
    }

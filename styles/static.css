@@ -8,16 +8,20 @@ h1,h2,h3,h4,h5,h6{
     width: 100%;
     margin: 10px 0px;
 }
-
+.socialSite img {
+    width: 35px;
+    border: white;
+}
 .profile{
     text-align: center;
-    margin-top: 200px;
-    background: #0aff88;
+    margin-top: 55px;
+    background: #48e851;
     border-radius: 50px;
 }
 .profile img{
     width: 230px;
     border-radius: 150px;
+    margin: 20px;
 }
 .topmenu h1,h2 {
     background: rgba(255, 255, 255, 0.691);
@@ -55,18 +59,24 @@ h1,h2,h3,h4,h5,h6{
     font-size: 35px;
     text-align: center;
 }
+.Instname h1 img {
+    width: 35px;
+}
+
 .experiance{
     font-size: 25px;
     font-weight: 300;
     text-align: center;
-    line-height: 54px;
+    line-height: 30px;
     border: solid black 2px;
     border-radius: 25px;
 }
 .experiance h1{
     font-weight: 400;
     font-size: 35px;
-    
+}
+.experiance h1 img {
+    width: 40px;
 }
 .achivement h1{
     font-size: 35px;
@@ -74,7 +84,7 @@ h1,h2,h3,h4,h5,h6{
     text-align: center;
 }
 .achivement{
-    background: url(./nice.jpg);
+    background: url(./img/nice.jpg);
     color: black;
     background-repeat: no-repeat;
     margin: 60px 0px;
@@ -130,11 +140,11 @@ h1,h2,h3,h4,h5,h6{
     border-radius: 60px;
 } 
 .social h1 {
-    color: yellow;
-    font-size: 25px;
+    color: white;
+    font-size: 35px;
     margin-left: 30px;
     padding-top: 40px;
-    font-weight: 400;
+    font-weight: 500;
     text-align: center;
     padding-bottom: 30px;
 }
@@ -174,17 +184,19 @@ h1,h2,h3,h4,h5,h6{
     color: white;
 }
 .socialSite {
-    padding-top: 25px;
-}
-.socialSite button {
+    padding-top: 11px;
     width: 100%;
+}
+
+.socialSite button {
+    width: 20%;
     border: none;
     background-color: black;
     color: white;
-    font-size: 45px;
-    border-radius: 70px;
+    font-size: 30px;
+    border-radius: 12px;
     float: left;
-    margin: 8px 0px;
+    margin-right: 8px;
 }
 .socialSite  :hover{
     color: black;
@@ -194,13 +206,13 @@ h1,h2,h3,h4,h5,h6{
     cursor: pointer;
 }
 .socialSite2 button{
-    width: 100%;
-    padding: 0px;
+    width: 22%;
+    padding: 1px;
     border: none;
     background-color: black;
     color: white;
-    font-size: 45px;
-    border-radius: 70px;
+    font-size: 30px;
+    border-radius: 12px;
     float: left;
 }
 .socialSite2  :hover{
@@ -211,15 +223,15 @@ h1,h2,h3,h4,h5,h6{
     cursor: pointer;
 }
 .socialSite3 button{
-    width: 100%;
-    padding: 0px;
-    border-radius: 70px;
+    width: 33%;
+    padding: 1px;
+    border-radius: 12px;
     float: left;
-    font-size: 45px;
+    font-size: 30px;
     background-color: black;
     color: white;
     border: none;
-    margin: 10px 0px;
+    margin-left: 8px;
 }
 .socialSite3 :hover{
     color: black;

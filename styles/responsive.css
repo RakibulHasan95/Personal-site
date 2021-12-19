@@ -21,13 +21,12 @@
        line-height: 22px;
        float: left;
    }
-   .Instname h1 {
-       font-weight: 400;
-       font-size: 49px;
+   .Instname h1,h2 {
+       font-weight: 400;   
        text-align: center;
    }
-   .Instname h2 {
-      font-size: 43px;
+   .Instname h1,h2 {
+      font-size: 40px;
    }
    .experiance h1 {
       font-size: 45px;
@@ -154,7 +153,7 @@
    .profile {
       text-align: center;
       margin-top: 160px;
-      background: #48e851;
+      background: aqua;
       border-radius: 50px;
    }
 

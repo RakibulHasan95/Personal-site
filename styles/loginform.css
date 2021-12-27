@@ -2,6 +2,7 @@
 body{
 	background:url(./pen.jpg);
 	background-size: cover;
+	position: inherit;
 }
 
 .header h1{
@@ -15,22 +16,22 @@ body{
 }
 .loginbox{
 	background:white;
-	width: 577px;
-	padding: 133px;
+	width: 680px;
+	padding: 71px;
 	margin:auto;
-	margin-top: 64px;
+	margin-top: 2px;
 	box-shadow:1px 0px 23px 9px black;
-	margin-bottom: 100px;
+	margin-bottom: 60px;
 }
 .loginbox input{
-	width: 615px;
+	width: 100%;
 	display:block;
-	padding: 24px;
+	padding: 12px;
 	background:#F2F2F2;
-	margin-bottom: 51px;
+	margin-bottom: 57px;
 	outline:none;
 	border:none;
-	font-size: 40px;
+	font-size: 25px;
 }
 .loginbutton{
 	
@@ -65,5 +66,5 @@ body{
     color: #1b5a51f0;
     font-family:'Oswald', sans-serif;
     cursor: pointer;
-    font-size: 30px;
+    font-size: 27px;
 }  

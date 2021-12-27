@@ -47,9 +47,9 @@ h1,h2,h3,h4,h5,h6{
     text-align: center;
     line-height: 0px;
 }
-.learnme {}
+
 .Instname{
-    width: 940px;
+    width: 955px;
     word-spacing: 0px;
     line-height: 22px;
     font-size: 25px;
@@ -60,6 +60,7 @@ h1,h2,h3,h4,h5,h6{
     font-size: 35px;
     text-align: center;
 }
+
 .Instname h1 img {
     width: 60px;
 }
@@ -127,6 +128,7 @@ h1,h2,h3,h4,h5,h6{
     background: white;
     color: black;
     transition: 0.2s;
+    cursor: pointer;
 }
 .capture1 img{
     width: 480px;
@@ -251,4 +253,7 @@ h1,h2,h3,h4,h5,h6{
     transition: 0.5s;
     border: solid black 1px;
     cursor: pointer;
+}
+.vedio {
+    text-align: center;
 }

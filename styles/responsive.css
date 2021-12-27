@@ -1,7 +1,7 @@
 @media (min-width: 320px) and (max-width: 765px){
 
    .container{
-      width: 100%;
+      width: 700px;
    }
    .profile{
      text-align: center;
@@ -16,7 +16,7 @@
       border-radius: 25px;
    }
    .Instname{
-       width: 722px;
+       width: 100%;
        word-spacing: 0px;
        line-height: 22px;
        float: left;
@@ -26,7 +26,8 @@
        text-align: center;
    }
    .Instname h1,h2 {
-      font-size: 40px;
+      font-size: 58px;
+      margin-top: 340px;
    }
    .experiance h1 {
       font-size: 45px;
@@ -63,12 +64,11 @@
    }
 
    
-   .open input{  
-       width: 100%;
-       padding: 20px;
-       margin:auto;
-       margin-top: 15px;
-       font-size: 20px;
+   .open input{
+       width: 90%;
+       padding: 12px;
+       margin-top: 37px;
+       font-size: 26px;
        border-radius: 20px;
        border: none;
    }
@@ -81,11 +81,11 @@
        padding: 22px;
    }
    .login2 button {
-       padding: 18px;
-       width: 100%;
+       padding: 8px;
+       width: 86%;
        background: black;
        color: white;
-       font-size: 23px;
+       font-size: 35px;
        border: none;
        border-radius: 40px;
        cursor: pointer;
@@ -156,5 +156,27 @@
       background: aqua;
       border-radius: 50px;
    }
-
+   .Instname{
+      width: 100%;
+      word-spacing: 0px;
+      line-height: 22px;
+      
+   }
+   .Instname h2 {
+      font-size: 40px;
+   }
+   .vedio{
+      width: 100%;
+      height: 70%;
+   }
+   .loginbox{
+      background:white;
+      width: 64%;
+      padding: 4%;
+      margin:auto;
+      margin-top: 70px;
+      box-shadow:1px 0px 23px 9px black;
+      margin-bottom: 56px;
+      position: inherit;
+   }
    }
